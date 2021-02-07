@@ -1,0 +1,34 @@
+.divAnsw{
+    h3{
+        text-align: center;
+        font-size: $h1;
+    }
+    .answer{
+        width:80%;
+        height:500px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows : 1fr 1fr;
+        grid-gap: 1em 1em;
+        margin : 5% auto 0 auto;
+        // background-color: #0F1336;
+    
+        button{
+            background-color: $noir;
+            color: $white;
+        }
+        p{
+            font-size: $h3;
+        }
+        a{
+            color: $noir;
+            font-size: $h2;
+        }
+    }
+    .correct{
+        background-color:$green !important;
+    }
+    .faux{
+        background-color:$rouge !important;
+    }
+}

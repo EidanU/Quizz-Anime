@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  // background-color: #0F1336;
+  background-color: $bc;
+}
+a,
+button {
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+  font-size: 30px;
+  text-decoration: none;
+  // background: linear-gradient(0.35turn, #0F1336, rgb(34, 41, 104));
+  // box-shadow: 5px 5px 10px rgb(255, 255, 255);
+}
+
+img {
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-size: $h1;
+}
+h2 {
+  font-size: $h2;
+}
+h3 {
+  font-size: $h3;
+}

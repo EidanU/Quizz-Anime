@@ -1,0 +1,418 @@
+[
+  {
+    "snk":[ 
+        {
+          "titre": "Qui a détruit la porte interne du district de Siganshina",
+          "reponse" : [
+            "Le titan Assaillant",
+            "Le titan Bestial",
+            "Le titan Colossal",
+            "Le titan Cuirassé"
+          ],
+          "vraie": "Le titan Cuirassé"
+        },
+        {
+          "titre": "Qu'a offert eren à Mikasa lorsqu'ils etaient enfants",
+          "reponse": [
+            "Une echarpe",
+            "une montre",
+            "un collier",
+            "une veste"
+          ],
+          "vraie" : "Une echarpe"
+        },
+        {
+          "titre": "Combien y a t'il de primordiaux",
+          "reponse":[ 
+            "3",
+            "6",
+            "9",
+            "12"
+          ],
+          "vraie" : "9"
+        },
+        {
+          "titre": "Qui a donné le titan assailant à Eren ",
+          "reponse":[ 
+            "Eren",
+            "Ymir",
+            "Sieg",
+             "Grisha"
+          ],
+            "vraie":"Grisha"
+        },
+        {
+          "titre": "Comment va se finir l'anime",
+          "reponse":[
+            "Une boucle temporelle",
+            "Armin devient colossal et detruit le monde",
+            "Eren meurt ",
+            "On ne sait pas"
+          ],
+          "vraie" : "On ne sait pas"
+        },
+        {
+          "titre": "Qui sont les gentils",
+          "reponse":[ 
+            "Paradis",
+            "Monde",
+            "Personne",
+            "Tout le monde"
+          ],
+          "vraie":"Personne"
+        },
+        {
+          "titre": "Quels sont les titans qu'Eren possède",
+          "reponse":[ 
+            "Cuirassé/Marteau/Assaillant",
+            "Originel/Marteau/Assaillant",
+            "Machoire/Cuirassé/Assaillant",
+            "Originel/Cuirassé/Assaillant"
+          ],
+          "vraie":"Originel/Marteau/Assaillant"
+        },
+        {
+          "titre": "Comment Eren utilise son pouvoir pour la premiere fois",
+          "reponse":[
+            "Apres s'etre mordu ",
+            "Apres avoir été mangé par le titan Pere Noel",
+            "Apres avoir eu un flashback ",
+            "Involontairement, Juste apres avoir eu son pouvoir"
+          ],
+          "vraie":"Apres avoir été mangé par le titan Pere Noel"
+        },
+        {
+          "titre": "Q'était il marque sur la boite de conserve que tenait Ymir",
+          "reponse":[ 
+            "Lentille ",
+            "Harang",
+            "petit pois",
+            "thon"
+          ],
+          "vraie":"Harang"
+        },
+        {
+          "titre": "Qu'y a t-il dans la cave",
+          "reponse":[
+            "Une photo",
+            "Un tableau",
+            "De la nourriture moderne",
+            "Une clé"
+          ],
+          "vraie":"Une photo"
+        }
+    ] 
+  },
+  {
+    "kny":[ 
+      {
+        "titre": "Comment se nomme la Soeur de Tanjiro ",
+        "reponse" : [
+          "Nezuko",
+          "Shinobu",
+          "Mitsuri",
+          "miki"
+        ],
+        "vraie": "Nezuko"
+      },
+      {
+        "titre": "Quel est le souffle de tanjiro au debut de l'oeuvre",
+        "reponse": [
+          "Souffle de l'eau",
+          "Souffle de du feu",
+          "Souffle du soleil ",
+          "souffle du vent"
+        ],
+        "vraie" : "Souffle de l'eau"
+      },
+      {
+        "titre": "Qui est le pilier de l'eau",
+        "reponse":[ 
+          "Shinobu Kocho",
+          "Kyojuro Rengoku",
+          "Mitsuri Kanroji",
+          "Giyu Tomioka"
+        ],
+        "vraie" : "Giyu Tomioka"
+      },
+      {
+        "titre": "Qu'est il arrive sabres d'Inosuke",
+        "reponse":[ 
+          "Ils ont été forgé de maniere à lacerer",
+          "Il les casse lui meme avec une pierre",
+          "Ils se sont abimé avec le temps et les bombats",
+          "Leurs pouvoirs leur donne cette forme"
+        ],
+          "vraie":"Il les casse lui meme avec une pierre"
+      },
+      {
+        "titre": "Comment se nomme l'oiseau de zenitsu",
+        "reponse":[
+          "Chuntaro",
+          "Tennōji",
+          "Kanzaburo",
+          "On ne sait pas"
+        ],
+        "vraie" : "Chuntaro"
+      },
+      {
+        "titre": "Pourquoi Giyu a-t-il epargné Nezuko",
+        "reponse":[ 
+          "Pour mener une experience",
+          "Pour l'achever plus tard",
+          "Car elle a protegé Tanjiro",
+          "Car comme zenitsu il est tombé amoureux"
+        ],
+        "vraie":"Car elle a protegé Tanjiro"
+      },
+      {
+        "titre": "Pourquoi Tanjiro devient un tueur de démon",
+        "reponse":[ 
+          "Pour se venger",
+          "Car il n'a plus aucun but",
+          "Pour que sa soeur redevienne humaine",
+          "Pour se faire de nouveaux amis"
+        ],
+        "vraie":"Pour que sa soeur redevienne humaine"
+      },
+      {
+        "titre": "Combien y a-t-il de piliers",
+        "reponse":[
+          "6",
+          "9",
+          "12",
+          "15"
+        ],
+        "vraie":"9"
+      },
+      {
+        "titre": "Comment zenitsu eveille-t-il son pouvoir",
+        "reponse":[ 
+          "En dormant",
+          "Lors d'un moment de stress intense",
+          "La nuit ",
+          "Lors d'un orage"
+        ],
+        "vraie":"En dormant"
+      },
+      {
+        "titre": "Qui sont les piliers envoyés dans la montagne pour vaincre la lune démoniaque",
+        "reponse":[
+          "Giyu et Shinobu",
+          "Giyu et Mitsuri",
+          "Giyu et Tengen",
+          "Giyu et Gyomei"
+        ],
+        "vraie":"Giyu et Shinobu"
+      }
+    ] 
+  },
+  {
+    "dbz":[ 
+        {
+          "titre": "Quel a été le premier voeux prononcé grâce aux dragons balls",
+          "reponse" : [
+            "Je veux une culotte !",
+            "Je veux être riche !",
+            "Je veux être immortel !",
+            "Je veux rajeunir !"
+          ],
+          "vraie": "Je veux une culotte !"
+        },
+        {
+          "titre": "A quelle race appartient Kakarot",
+          "reponse": [
+            "Sayajin",
+            "Terrestre",
+            "Namek",
+            "Tsufuls"
+          ],
+          "vraie" : "Sayajin"
+        },
+        {
+          "titre": "Pourquoi Broly déteste t'il Goku dans le film 'Dragon Ball Z: Broly le Super guerrier'",
+          "reponse":[ 
+            "Il l'a battu au combat",
+            "Il l'a empêché de dormir",
+            "Il est de sang noble",
+            "Il lui a piqué sa bouffe"
+          ],
+          "vraie" : "Il l'a empêché de dormir"
+        },
+        {
+          "titre": "Qui entraine Son Gohan pour le combat contre nappa et Vegeta",
+          "reponse":[ 
+            "Krilin",
+            "Tenshinhan",
+            "Picolo",
+            "Kame Senin"
+          ],
+            "vraie":"Picolo"
+        },
+        {
+          "titre": "Pourquoi la planète Végéta a-t'elle été détruite",
+          "reponse":[
+            "Une boule de feu s'est écrasé sur la planète",
+            "Freezer avait peur de la puissance des Sayajins",
+            "Elle s'est autodétruite",
+            "Beerus l'a fait disparaitre"
+          ],
+          "vraie" : "Freezer avait peur de la puissance des Sayajins"
+        },
+        {
+          "titre": "Qui est le Dieu le plus puissant",
+          "reponse":[ 
+            "Beerus",
+            "Zeno",
+            "Le grand Prêtre",
+            "Les Anges"
+          ],
+          "vraie":"Zeno"
+        },
+        {
+          "titre": "Pourquoi Goku abandonne t'il contre Cell",
+          "reponse":[ 
+            "Car il a perdu",
+            "Car son problème cardiaque est réapparu",
+            "Car il ne voulait pas mourir une seconde fois",
+            "Car il sait que Gohan peut atteindre le SSJ2"
+          ],
+          "vraie":"Car il sait que Gohan peut atteindre le SSJ2"
+        },
+        {
+          "titre": "Quelle est la transformation de Goku la plus puissante dans DBZ",
+          "reponse":[
+            "Kaioken",
+            "SSJ",
+            "SSJ2",
+            "SSJ3"
+          ],
+          "vraie":"SSJ3"
+        },
+        {
+          "titre": "Comment Boo est-il apparu",
+          "reponse":[ 
+            "Goku et Vegeta se sont battus et ont fourni l'énergie nécessaire au cocon",
+            "Yamu a rempli le cocon avec l'énergie de Gohan",
+            "La magie de Babidi l'a ressucité",
+            "Boo n'existe pas"
+          ],
+          "vraie":"Goku et Vegeta se sont battus et ont fourni l'énergie n'écessaire au cocon"
+        },
+        {
+          "titre": "Comment s'appelle la fusion de Goku et Vegeta avec les potalas",
+          "reponse":[
+            "Gogeto",
+            "Gotenks",
+            "Gogeta",
+            "Vegetto"
+          ],
+          "vraie":"Vegetto"
+        }
+    ] 
+  },
+  {
+    "naruto":[ 
+        {
+          "titre": "De quel Biju naruto est-il le posseseur",
+          "reponse" : [
+            "Kyubi",
+            "Hachibi",
+            "nanabi",
+            "Jubi"
+          ],
+          "vraie": "Kyubi"
+        },
+        {
+          "titre": "Le pere de Naruto etait quel Hockage",
+          "reponse": [
+            "Yondaime Hokage",
+            "Sandaime Hokage",
+            "Nanadaime Hokage",
+            "Nanadaime Hokage"
+          ],
+          "vraie" : "Yondaime Hokage"
+        },
+        {
+          "titre": "Comment Naruto a vaincu Gaara lorsque celui ci etait possedé par son Biju",
+          "reponse":[ 
+            "Il utilisa le pouvoir de Kyubi",
+            "Un bon coup de boule",
+            "Avec un Razengan Shuriken",
+            "En gagant du temps jusqu'à ce que Garaa s'épuise"
+          ],
+          "vraie" : "Un bon coup de boule"
+        },
+        {
+          "titre": "Pourquoi Naruto est il détesté par tout le village",
+          "reponse":[ 
+            "Pour avoir peint et degradé les statues des hokage",
+            "Parce qu'il est orphelin",
+            "Parce qu'il est accusé d'avoir provoqué l'apparition de kyubi dasn le village de Konoha",
+             "Parce qu'il est un Jinshuuriki"
+          ],
+            "vraie":"Parce qu'il est un Jinshuuriki"
+        },
+        {
+          "titre": "Comment se nomment les flammes noires du sharingan",
+          "reponse":[
+            "Isanagi",
+            "Amaterasu",
+            "Tsukuyomi ",
+            "_Susanoo"
+          ],
+          "vraie" : "Amaterasu"
+        },
+        {
+          "titre": "Comment le sharingan evolue-t-il en Mangekyo",
+          "reponse":[ 
+            "Seulement en tuant un etre cher",
+            "En voyant un etre cher Mourir ",
+            "En fusionnant avec un autre sharingan",
+            "En Subissant des sequelles physique enormes"
+          ],
+          "vraie":"En voyant un etre cher Mourir"
+        },
+        {
+          "titre": "Qui a scellé Kyubi dans le corps de Naruto",
+          "reponse":[ 
+            "Ses parents",
+            "Sandaime Hokage ",
+            "Un membre de l'akatsuki",
+            "Des medecins du clans Uzumaki"
+          ],
+          "vraie":"Ses parents"
+        },
+        {
+          "titre": "Combien de Personne ont fondé l'akatsuki",
+          "reponse":[
+            "3",
+            "4",
+            "6",
+            "12"
+          ],
+          "vraie":"3"
+        },
+        {
+          "titre": "Qu'est il ecrit sur le front de Gaara",
+          "reponse":[ 
+            "Haine",
+            "Amour",
+            "Maudit",
+            "Pure"
+          ],
+          "vraie":"Amour"
+        },
+        {
+          "titre": "Combien Jiraya a-t-il pu vaincre de Pain",
+          "reponse":[
+            "1",
+            "2",
+            "3",
+            "Aucun"
+          ],
+          "vraie":"1"
+        }
+    ] 
+  }
+]
