@@ -1,16 +1,18 @@
-import {Link} from 'react-router-dom';
+import { Link, BrowserRouter } from 'react-router-dom';
 
-const Navbar = () =>{
+const Navbar = () => {
     return (
         <>
             <nav>
                 <ul>
+
                     <li>
-                        <Link to="/">Home</Link>
+                        <Link to="/eidanu.github.io/Quizz-Anime">Home</Link>
                     </li>
                     <li>
-                        <Link to="/quizz">Page Quizz</Link>
+                        <Link to="/eidanu.github.io/Quizz-Anime/quizz">Page Quizz</Link>
                     </li>
+
                 </ul>
             </nav>
         </>

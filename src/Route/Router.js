@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Landing from '../pages/Landing';
 import Quizz from '../pages/Quizz';
 import Question from '../components/quizz/Question';
@@ -9,31 +9,32 @@ import Resultats from '../components/quizz/Resultats';
 
 
 //data={data[0].snk}
-const Routeur = () =>{
-    return(
+const Routeur = () => {
+    const myUrl = "/eidanu.github.io/Quizz-Anime";
+    return (
         <>
             <Router>
                 <Switch>
-                    <Route exact path = "/" component={Landing}/>
-                    <Route exact path="/quizz" component={Quizz}/>
-    
-                    <Route exact path="/question/1">
-                        <Question data={data[0].snk}/>
+                    <Route exact path={myUrl} component={Landing} />
+                    <Route exact path={myUrl + '/quizz'} component={Quizz} />
+
+                    <Route exact path={myUrl + "/question/1"}>
+                        <Question data={data[0].snk} />
                     </Route>
 
-                    <Route exact path="/question/2">
-                        <Question data={data[1].kny}/>
+                    <Route exact path={myUrl + "/question/2"}>
+                        <Question data={data[1].kny} />
                     </Route>
 
-                    <Route exact path="/question/3">
-                        <Question data={data[2].dbz}/>
+                    <Route exact path={myUrl + "/question/3"}>
+                        <Question data={data[2].dbz} />
                     </Route>
 
-                    <Route exact path="/question/4">
-                        <Question data={data[3].naruto}/>
+                    <Route exact path={myUrl + "/question/4"}>
+                        <Question data={data[3].naruto} />
                     </Route>
 
-                    <Route path="/quizz/resultat" component={Resultats}/>
+                    <Route path={myUrl + "/quizz/resultat"} component={Resultats} />
 
                     <Route path="*">
                         <Error404 />
@@ -42,7 +43,7 @@ const Routeur = () =>{
             </Router>
         </>
     )
-    
+
 };
 
 export default Routeur
