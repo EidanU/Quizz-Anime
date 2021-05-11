@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import Navbar from "../components/Navbar";
 
 const Quizz = () => {
-    const myUrl = "/eidanu.github.io/Quizz-Anime";
+    const myUrl = "eidanu.github.io/Quizz-Anime";
     return (
         <>
             <Navbar />

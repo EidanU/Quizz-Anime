@@ -7,10 +7,10 @@ const Navbar = () => {
                 <ul>
 
                     <li>
-                        <Link to="/eidanu.github.io/Quizz-Anime">Home</Link>
+                        <Link to="eidanu.github.io/Quizz-Anime">Home</Link>
                     </li>
                     <li>
-                        <Link to="/eidanu.github.io/Quizz-Anime/quizz">Page Quizz</Link>
+                        <Link to="eidanu.github.io/Quizz-Anime/quizz">Page Quizz</Link>
                     </li>
 
                 </ul>

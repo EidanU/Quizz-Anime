@@ -6,7 +6,7 @@ const Resultat = ({ score }) => {
     <div className="resultat">
       {score > 5 ? <p> Bravo vous avez eu {score}/10</p> : <p> Dommage vous avez eu {score}/10</p>}
       <br />
-      <Link to="/eidanu.github.io/Quizz-Anime/quizz" className='quizz-link'>Tenter un autre quizz</Link>
+      <Link to="eidanu.github.io/Quizz-Anime/quizz" className='quizz-link'>Tenter un autre quizz</Link>
     </div>
 
   )

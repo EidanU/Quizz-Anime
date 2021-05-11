@@ -10,7 +10,7 @@ import Resultats from '../components/quizz/Resultats';
 
 //data={data[0].snk}
 const Routeur = () => {
-    const myUrl = "/eidanu.github.io/Quizz-Anime";
+    const myUrl = "eidanu.github.io/Quizz-Anime";
     return (
         <>
             <Router>
